@@ -13,3 +13,4 @@ Predicting percent of goal achieved by campaign's end
 - [Stochastic Gradient Descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 - [Ridge Regression (Tikhonov Regularization)](https://en.wikipedia.org/wiki/Tikhonov_regularization)
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+- [Lasso Regression](https://en.wikipedia.org/wiki/Lasso_(statistics))
