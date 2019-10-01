@@ -5,6 +5,8 @@ Final analysis project for CSC 478 (Programming ML Applications). Explores 66D f
 
 **Watch the code walkthrough on YouTube: https://youtu.be/bcLjKAgVaYg**
 
+**[View the Jupyter Notebook for this project](https://github.com/ashwinravrao/KickstarterAnalysis/blob/master/AshwinRao_CSC478701_Final.ipynb)**
+
 ## Modeling techniques used
 
 Predicting campaign outcome (success / failure)
